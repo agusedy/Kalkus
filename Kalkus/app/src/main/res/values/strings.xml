@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kalkus</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="input">Inputan</string>
+    <string name="v1">Angka 1</string>
+    <string name="v2">Angka 2</string>
+    <string name="operator">Operator</string>
+    <string name="thasil">Hasil</string>
+    <string name="hasil"></string>
+</resources>
